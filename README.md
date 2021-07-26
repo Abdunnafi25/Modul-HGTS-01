@@ -5,6 +5,7 @@
 * [Tipe Data dan Variabel Scope](https://github.com/Abdunnafi25/Modul-HGTS-01#tipe-data-dan-variabel-scope)
 * [Input dan Output](https://github.com/Abdunnafi25/Modul-HGTS-01#input-dan-output)
 * [Operator](https://github.com/Abdunnafi25/Modul-HGTS-01#operator)
+* [Contoh Soal](https://github.com/Abdunnafi25/Modul-HGTS-01#contoh-soal)
 
 ## Pengelan Bahasa C++
 
@@ -23,3 +24,7 @@
 
 
 ## Operator
+
+
+
+## Contoh Soal
